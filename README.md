@@ -4,7 +4,6 @@
   <img align="left" alt="Tim | LinkedIn" width="20px" src="assets/linkedin.png" />
 </a>
 
-<br>
 <!-- - 🔭 I’m currently working on ...  -->
 <br/>
 
