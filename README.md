@@ -1,7 +1,7 @@
 ### Hi there, I'm Tim 👋
 
 <a href="https://www.linkedin.com/in/tim-stoenner/">
-  <img align="left" alt="Tim | LinkedIn" width="20px" src="timstoenner/assets/linkedin.png" />
+  <img align="left" alt="Tim | LinkedIn" width="20px" src="assets/linkedin.png" />
 </a>
 <!--
 **timstoenner/timstoenner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
