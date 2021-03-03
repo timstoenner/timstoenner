@@ -1,10 +1,26 @@
-### Hi there, I'm Tim 👋
+## Hi there, I'm Tim 👋
 
 <a href="https://www.linkedin.com/in/tim-stoenner/">
   <img align="left" alt="Tim | LinkedIn" width="20px" src="assets/linkedin.png" />
 </a>
+
+<br>
+<!-- - 🔭 I’m currently working on ...  -->
+<br/>
+
+
+---
+
+![Tim's github stats](https://github-readme-stats.vercel.app/api?username=timstoenner&count_private=true&bg_color=45,009,6633ff&title_color=fffefe&text_color=fffefe&icon_color=fffefe&show_icons=true)
+
+<br/>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timstoenner&hide=jupyter%20notebook,html&layout=compact)](https://github.com/timstoenner/github-readme-stats) -->
+
+
+
 <!--
-**timstoenner/timstoenner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
