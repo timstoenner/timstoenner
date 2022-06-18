@@ -9,21 +9,18 @@
 
 ---
 
-![Tim's github stats](https://github-readme-stats.vercel.app/api?username=timstoenner&count_private=true&bg_color=45,009,6633ff&title_color=fffefe&text_color=fffefe&icon_color=fffefe&show_icons=true)
+<!-- ![Tim's github stats](https://github-readme-stats.vercel.app/api?username=timstoenner&count_private=true&bg_color=45,009,6633ff&title_color=fffefe&text_color=fffefe&icon_color=fffefe&show_icons=true) -->
 
 <br/>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timstoenner&hide=jupyter%20notebook,html&layout=compact)](https://github.com/timstoenner/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timstoenner&count_private=true&hide=jupyter%20notebook,html&layout=compact)](https://github.com/timstoenner/github-readme-stats) -->
+
+- 🔭 I’m currently working on: starting an EdTech company! 
+- 🌱 I’m currently learning: a bit of Flutter (testing out FlutterFlow!) ...
+- 💬 Ask me about: Data Science consulting work
+- 📫 How to reach me: LinkedIn (link above ^)
+- ⚡ Fun fact: I've only ever climbed one official mountain (Mt. Snowdon in Wales) but plan to do a few more in my lifetime
 
 
-<!--
-
-
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... -->
