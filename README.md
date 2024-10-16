@@ -15,9 +15,9 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timstoenner&count_private=true&hide=jupyter%20notebook,html&layout=compact)](https://github.com/timstoenner/github-readme-stats) -->
 
-- 🔭 I’m currently working on: running an EdTech company! 
+- 🔭 I’m currently working on: building AI-based solutions to challenging problems! 
 - 🌱 I’m currently learning: how to build a plane while ...
-- 💬 Ask me about: Data & AI training
+- 💬 Ask me about: how to build AI-based web apps
 - 📫 How to reach me: LinkedIn (link above ^)
 - ⚡ Fun fact: I've only ever climbed one official mountain (Mt. Snowdon in Wales) but plan to do a few more in my lifetime
 
